@@ -1,0 +1,249 @@
+
+; ================================================================
+; SECCION 1: INTRODUCCION Y PRIMERA ESTROFA
+; ================================================================
+; --- Fanfarron de apertura  (La-La-La-La / Fa#-Fa# / Re-Re escalando) ---
+1010  o4a8aaa8o5do4a
+1020  o4f#8f#f#f#8af#
+1030  o4d8ddd8f#d
+1040  o3a8.bo4c#def#
+1050  o4g4d#4
+; --- Primera parte – tema A  (melodia principal, Re mayor) ---
+1110  o4f#er16o3abo4c#de
+1120  o4f#4c#4
+1130  o4edr16c#edc#o3b
+1140  o3a8o4ao3ao4a8ao3a
+1150  o4a8ao3ao4a8ao3a
+1210  o4a8ao3ao4a8ao3a
+1220  o4a8r16o3ao4f#8.e
+; --- Primera parte – tema B  (motivo de dos notas, bajo arpegiado) ---
+1230  o4d4..r16
+1240  o3a8r16ao4f#8.e
+1310  o4d4..r16
+1320  o3a8r16ao4f#8.e
+1330  o4d8.ef#8.g
+1340  o4b8.ag8.f#
+; --- Primera parte – tema C  (region Sol mayor) ---
+1410  o4e4..r16
+1420  o3b8r8o4g8.f#
+1430  o4e4..r16
+1440  o3b8r8o4g8.f#
+; --- Primera parte – tema C variado ---
+1510  o4e4..r16
+1520  o3b8.bo4g8.f#
+1530  o4e8.f#g8.a
+1540  o4b8.ag8.f#
+; --- Primera parte – tema B con ornamento (vuelta a Re) ---
+1610  o4e#8e#e#e#8e#r16
+1620  o4f#8r16o3ao4f#8.e
+1630  o4d4..r16
+1640  o3a8r16ao4f#8.e
+; --- Primera parte – tema B extendido / modulacion ---
+1710  o4d4..r16
+1720  o3a8r16ao4f#8.e
+1730  o4d8.ef#8.g
+1740  o4a8.bo5c#8.d
+; --- Transicion descendente (Do# / arpeggio) ---
+1810  o5d4..r16
+1820  o4e8r16ed#8.e
+1830  o5c#2
+1840  r12o4b12a12g12f#12e12
+; --- Cadencia / cierre primera estrofa ---
+1910  o4b2
+1920  r12o4a12g12f#12e12d12
+1930  o4c#8.ba4
+2010  o4r12b12a12g12f#12e12
+2020  o4d8r8d8r8
+2030  o4d8r8r4
+
+; ================================================================
+; SECCION 2: DESARROLLO (SEGUNDA PARTE)
+; ================================================================
+; --- Segunda parte – tema en Si menor (acompañamiento arpegiado) ---
+2040  o3bo4c#def#8g8
+2050  o4f#8b8f#8d8
+2110  o3b8o4c#8d8o3b8
+2120  o4c#8.r16f#8r8
+2130  o3bo4c#def#8g8
+2140  o4f#8b8f#8d8
+2150  o3b8o4c#8d8o3b8
+2210  o4f#8r8b8.r16
+; --- Segunda parte – variacion armonica (Fa# mayor, Re mayor) ---
+2220  o4a4e8.f#
+2230  o4g8g8f#8e#8
+2240  o4f#4d8.e
+2250  o4f#4g4
+; --- Segunda parte – modulacion La mayor / Fa# menor ---
+2310  o4f#4c#8.d
+2320  o4e8e8d8c#8
+2330  o4d4o3b8.o4c#
+2340  o4d8.r16d4
+2350  o4b4e8.f#
+; --- Segunda parte – desarrollo extendido ---
+2410  o4g8o5c#8o4b8o5c#8
+2420  o4b4o4d8.e
+2430  o4f#4a4
+2440  o4g4c#8.d
+2450  o4e8f#8g8a8
+2510  o4g4o3b8.o4c#
+2520  o4d4f#4
+; --- Segunda parte – culminacion del desarrollo (Re mayor) ---
+2530  o4e4b4
+2540  o4e#8a#8b8.o5c#
+2550  o5d2
+; --- Segunda parte – bis del tema Si menor ---
+2610  o4f#8.r16b4
+2620  o4a2
+2630  r8o4gr16f#r16er16
+2640  o4dr16r8r4
+; --- Segunda parte – retorno al tema de la primera parte ---
+2710  r4o4b4
+2720  o4a4e8.f#
+2730  g8g8f#8f8
+2740  o4f#4d8.e
+2810  o4f#4g4
+2820  o4f#4c#8.d
+2830  o4e8e8d8c#8
+2840  o4d4o3b8.o4c#
+2850  o4d8.r16d4
+2910  o4b4e8.f#
+2920  o4g8o5c#8o4b8o5c#8
+2930  o4b4d8.e
+2940  o4f#4a4
+2950  o4g4c#8.d
+3010  o4e8f#8g8a8
+3020  o4g4o3b8.o4c#
+3025  o4d4f#4
+3030  o4e4b4
+3040  o4e#8a#8b8o5c#8
+3110  o5d2
+3120  o4f#4b4
+3130  o4a2
+; --- Segunda parte – cadencia final (arpeggio descendente, pedal Re) ---
+3140  o4r8gr16f#r16er16
+3150  o4dr16df#a4
+; --- Segunda parte – cierre ---
+3210  r8o4abagf#e
+3220  o4dr16df#a4
+3230  r8o4abagf#e
+3240  o4dr16r8d8r16d
+3250  o4d8.r16r8r32d32e32f#32
+
+; ================================================================
+; SECCION 3: PUENTE
+; ================================================================
+; --- Puente / Trio  (Re mayor, bajo simple) ---
+3310  o4g8f#ed4
+3320  r8o3b8o4c8e8
+3330  o4d8o3b8g8.r16
+3340  r4o3a4
+3350  o3b8r8r4
+3360  r4o4f#4
+3370  o4g8r8r4
+3410  r4o4d4
+
+; ================================================================
+; SECCION 4: ESTRIBILLO (primera vez)
+; ================================================================
+; --- Estribillo – motivo principal  (bajo G$ un tiempo) ---
+3420  o4d2
+3430  r8o3b8o4c8e8
+3440  o4d2
+3450  o3b8r8o4g4
+3460  o4g2
+3510  r8o4f#8g8e8
+3520  o4d2
+3530  o3b4o4d4
+3540  o4d2
+3550  r8o4e8d8e8
+3610  o4d8r8d4
+3620  o4r8e8f#8g8
+3630  o4a8r8a4
+3640  r8o4e8f#8g8
+3650  o4f#8e8d4
+3660  r8r8o4d4
+; --- Estribillo – modulacion relativo  (Sol / Re) ---
+3710  o4d2
+3720  r8o3b8o4c8e8
+3730  o4d2
+3740  o3b8r8o4g4
+; --- Estribillo – Fa# mayor / Mi mayor ---
+3810  o4g2
+3820  r8o4f#8a8g8
+3830  o4f#2
+3840  o4e8r8a4
+; --- Estribillo – Si mayor → Re mayor cierre ---
+3910  o4a2
+3920  r8o4g#8a8a#8
+3930  o4b2
+3940  r8o4f#8g8e8
+3950  o4d8e-8e8r8
+; --- Estribillo – cadencia final  (Sol - La - Re) ---
+4010  r4o4f#4
+4020  o4g8r8a8ba
+4030  o4gr16ggg8r8
+
+; ================================================================
+; SECCION 5: CODA / FINALE
+; ================================================================
+; --- Coda – arpeggios en Re mayor (tema inicial simplificado) ---
+4040  o4ar16aaar16f#r16
+4050  o4d4.o3a8
+4060  o4d8o3a8o4d8f#8
+; --- Coda – bis del arpeggio ---
+4110  o4ar16aaa8.r16
+4120  o4ar16aaar16f#r16
+4130  o4d4.o3a8
+4140  o4d8f#8a8o3a8
+4150  o4d4r4
+; --- Coda – solo de melodia (canal B en silencio) ---
+4160  o4ar16aaar16f#r16
+4210  o4d4.o3a8
+4220  o4d8o3a8o4d8f#8
+4230  o4ar16aaa8.r16
+4240  o4ar16aaar16f#r16
+4250  o4d4.o3a8
+4260  o4d8f#8a8o3a8
+; --- Coda – cierre final ---
+4310  o4dr16r8d8.r16
+
+; ================================================================
+; SECCION 4 bis: ESTRIBILLO (segunda vez)
+; ================================================================
+; --- Estribillo – motivo principal  (bajo G$ un tiempo) ---
+3420  o4d2
+3430  r8o3b8o4c8e8
+3440  o4d2
+3450  o3b8r8o4g4
+3460  o4g2
+3510  r8o4f#8g8e8
+3520  o4d2
+3530  o3b4o4d4
+3540  o4d2
+3550  r8o4e8d8e8
+3610  o4d8r8d4
+3620  o4r8e8f#8g8
+3630  o4a8r8a4
+3640  r8o4e8f#8g8
+3650  o4f#8e8d4
+3660  r8r8o4d4
+; --- Estribillo – modulacion relativo  (Sol / Re) ---
+3710  o4d2
+3720  r8o3b8o4c8e8
+3730  o4d2
+3740  o3b8r8o4g4
+; --- Estribillo – Fa# mayor / Mi mayor ---
+3810  o4g2
+3820  r8o4f#8a8g8
+3830  o4f#2
+3840  o4e8r8a4
+; --- Estribillo – Si mayor → Re mayor cierre ---
+3910  o4a2
+3920  r8o4g#8a8a#8
+3930  o4b2
+3940  r8o4f#8g8e8
+3950  o4d8e-8e8r8
+; --- Estribillo – cadencia final  (Sol - La - Re) ---
+4010  r4o4f#4
+4020  o4g8r8a8ba
+4030  o4gr16ggg8r8

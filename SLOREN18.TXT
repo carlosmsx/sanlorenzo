@@ -1,0 +1,229 @@
+10 REM CLS:WIDTH40:KEYOFF
+11 DA$="o2dr16ar16":AA$="o1ar16o2ar16"
+12 DB$="o2dr16br16":GB$="o2gr16br16"
+13 GG$="o1gr16o2gr16":EA$="o2er16ar16"
+14 BG$="o1br16o2gr16"
+15 AG$="o1ar16o2gr16
+16 CG$="o2c#r16gr16"
+17 CA$="o2c#r16ar16":KA$="o2cr16ar16"
+18 AF$="o1a#r16o2f#r16"
+19 FF$="o1f#r16o2f#r16"
+20 BF$="o1br16o2f#r16"
+21 AE$="o1a#r16o2er16"
+22 FE$="o1f#r16o2er16"
+23 F$="o1f#r16r8":G$="o1gr16r8"
+24 C$="o2cr16r8":D$="o2dr16r8"
+25 A$="o1ar16r8":B$="o1br16r8"
+27 GD$="o1gr16o2dr16":DD$="o1dr16o2dr16"
+28 DG$="o2dr16gr16"
+29 GOTO 1000
+30 IF INKEY$<>"" THEN END
+35 IF PLAY(0) THEN 30
+40 RETURN
+1000 PLAY "m3000s1l16","v12l16"
+1001 GOSUB 1010
+1002 GOSUB 2040
+1003 GOSUB 3310
+1004 GOSUB 3420
+1005 GOSUB 4040
+1006 GOSUB 3420
+1007 END
+1010 PLAY "o4a8aaa8o5do4a","r2"
+1020 PLAY "o4f#8f#f#f#8af#","r2"
+1030 PLAY "o4d8ddd8f#d","r2"
+1040 PLAY "o3a8.bo4c#def#","o1a2"
+1050 PLAY "o4g4d#4","o2a8r8ar16r8"
+1110 PLAY "o4f#er16o3abo4c#de","o2aar8r4"
+1120 PLAY "o4f#4c#4","o2a8r8o2aar8"
+1130 PLAY "o4edr16c#edc#o3b","o2aar8r4"
+1140 PLAY "o3a8o4ao3ao4a8ao3a","o2ar16r8g#8.r16"
+1150 PLAY "o4a8ao3ao4a8ao3a","o2g8.r16f#8.r16"
+1210 PLAY "o4a8ao3ao4a8ao3a","o2e8.r16d8.r16"
+1220 PLAY "o4a8r16o3ao4f#8.e","o2c#8r8r4"
+1230 PLAY "o4d4..r16",DA$+AA$
+1240 PLAY "o3a8r16ao4f#8.e",DA$+AA$
+1310 PLAY "o4d4..r16",DA$+AA$
+1320 PLAY "o3a8r16ao4f#8.e",DA$+AA$
+1330 PLAY "o4d8.ef#8.g",DA$+AA$
+1340 PLAY "o4b8.ag8.f#",DA$+AA$
+1410 PLAY "o4e4..r16",GG$+BG$
+1420 PLAY "o3b8r8o4g8.f#",GG$+BG$
+1430 PLAY "o4e4..r16",GG$+BG$
+1440 PLAY "o3b8r8o4g8.f#",GG$+BG$
+1510 PLAY "o4e4..r16",GG$+BG$
+1520 PLAY "o3b8.bo4g8.f#",GG$+BG$
+1530 PLAY "o4e8.f#g8.a",AG$+CG$
+1540 PLAY "o4b8.ag8.f#",AG$+CG$
+1610 PLAY "o4e#8e#e#e#8e#r16","o2d8br16br16br16"
+1620 PLAY "o4f#8r16o3ao4f#8.e","o2ar16r8r4"
+1630 PLAY "o4d4..r16",DA$+AA$
+1640 PLAY "o3a8r16ao4f#8.e",DA$+AA$
+1710 PLAY "o4d4..r16",DA$+AA$
+1720 PLAY "o3a8r16ao4f#8.e",DA$+AA$
+1730 PLAY "o4d8.ef#8.g",DA$+AA$
+1740 PLAY "o4a8.bo5c#8.d","o1f#r16o2f#r16o1dr16o2f#r16"
+1810 PLAY "o5d4..r16",GG$+BG$
+1820 PLAY "o4e8r16ed#8.e",GG$+BG$
+1830 PLAY "o5c#2",GG$+BG$
+1840 PLAY "r12o4b12a12g12f#12e12",GG$+BG$
+1910 PLAY "o4b2","o1f#r16o2f#r16o1ar16o2f#r16"
+1920 PLAY "r12o4a12g12f#12e12d12","o1f#r16o2f#r16o1dr16o2f#r16"
+1930 PLAY "o4c#8.ba4",AG$+CG$
+2010 PLAY "o4r12b12a12g12f#12e12",AG$+CG$
+2020 PLAY "o4d8r8d8r8","o2dr16r8o1a8r16f#"
+2030 PLAY "o4d8r8r4","o1dr16r8r4"
+2035 RETURN
+2040 PLAY "o3bo4c#def#8g8","o1bo2c#def#r16gr16"
+2050 PLAY "o4f#8b8f#8d8","o2f#r16br16f#r16dr16"
+2110 PLAY "o3b8o4c#8d8o3b8","o1br16r8br16r8"
+2120 PLAY "o4c#8.r16f#8r8","o1f#r16f#r16f#r16r8"
+2130 PLAY "o3bo4c#def#8g8","o1bo2c#def#r16gr16"
+2140 PLAY "o4f#8b8f#8d8","o2f#r16br16f#r16dr16"
+2150 PLAY "o3b8o4c#8d8o3b8","o1br16r8br16r8"
+2210 PLAY "o4f#8r8b8.r16","o1f#r16r8r4"
+2220 PLAY "o4a4e8.f#",CA$+AA$
+2230 PLAY "o4g8g8f#8e#8",CA$+AA$
+2240 PLAY "o4f#4d8.e",DA$+AA$
+2250 PLAY "o4f#4g4",DA$+AA$
+2310 PLAY "o4f#4c#8.d",AF$+FF$
+2320 PLAY "o4e8e8d8c#8",AF$+FF$
+2330 PLAY "o4d4o3b8.o4c#",BF$+FF$
+2340 PLAY "o4d8.r16d4",BF$+FF$
+2350 PLAY "o4b4e8.f#",GG$+GG$
+2410 PLAY "o4g8o5c#8o4b8o5c#8",GG$+GG$
+2420 PLAY "o4b4o4d8.e",FF$+AA$
+2430 PLAY "o4f#4a4",DA$+AA$
+2440 PLAY "o4g4c#8.d",AE$+FE$
+2450 PLAY "o4e8f#8g8a8",AE$+FE$
+2510 PLAY "o4g4o3b8.o4c#",BF$+FF$
+2520 PLAY "o4d4f#4",BF$+FF$
+2530 PLAY "o4e4b4",GG$+BG$
+2540 PLAY "o4e#8a#8b8.o5c#","o1g#r16o2g#r16o1br16o2g#r16"
+2550 PLAY "o5d2",AA$+DA$
+2610 PLAY "o4f#8.r16b4",AA$+"o2e#r16g#r16"
+2620 PLAY "o4a2","o2er16gr16"+CG$
+2630 PLAY "r8o4gr16f#r16er16",AG$+AF$
+2640 PLAY "o4dr16r8r4",DA$+AA$
+2710 PLAY "r4o4b4",DA$+AA$
+2720 PLAY "o4a4e8.f#",CA$+AA$
+2730 PLAY "g8g8f#8f8",CA$+AA$
+2740 PLAY "o4f#4d8.e",DA$+AA$
+2810 PLAY "o4f#4g4",DA$+AA$
+2820 PLAY "o4f#4c#8.d","o1a#r16o2f#r16"+FF$
+2830 PLAY "o4e8e8d8c#8","o1a#r16o2f#r16"+FF$
+2840 PLAY "o4d4o3b8.o4c#",BF$+FF$
+2850 PLAY "o4d8.r16d4",BF$+FF$
+2910 PLAY "o4b4e8.f#",GG$+BG$
+2920 PLAY "o4g8o5c#8o4b8o5c#8",GG$+BG$
+2930 PLAY "o4b4d8.e",FF$+AF$
+2940 PLAY "o4f#4a4",DA$+AA$
+2950 PLAY "o4g4c#8.d",AE$+FE$
+3010 PLAY "o4e8f#8g8a8",AE$+FE$
+3020 PLAY "o4g4o3b8.o4c#",BF$+FF$
+3025 PLAY "o4d4f#4",BF$+FF$
+3030 PLAY "o4e4b4",GG$+BG$
+3040 PLAY "o4e#8a#8b8o5c#8","o1g#r16o2g#r16dr16g#r16"
+3110 PLAY "o5d2",AA$+DA$
+3120 PLAY "o4f#4b4",AA$+"o2e#r16g#r16"
+3130 PLAY "o4a2","o2er16gr16"+CG$
+3140 PLAY "o4r8gr16f#r16er16",AG$+AA$
+3150 PLAY "o4dr16df#a4","o2f#8r8r4"
+3210 PLAY "r8o4abagf#e","r8o2gr16gr16gr16"
+3220 PLAY "o4dr16df#a4","o2f#r16r8r4"
+3230 PLAY "r8o4abagf#e","r8o2gr16gr16gr16"
+3240 PLAY "o4dr16r8d8r16d","o2f#8r8o1ar8f#"
+3250 PLAY "o4d8.r16r8r32d32e32f#32","o1d8r8r8r32o2d32e32f#32"
+3260 RETURN
+3310 PLAY "o4g8f#ed4","o2gr16f#ed8r8"
+3320 PLAY "r8o3b8o4c8e8","r8o1br16o2cr16er16"
+3330 PLAY "o4d8o3b8g8.r16","o2dr16o1br16gr16r8"
+3340 PLAY "r4o3a4","r4o1a"
+3350 PLAY "o3b8r8r4","o1b8r8dr16"
+3360 PLAY "r4o4f#4","o1dr16r8d4"
+3370 PLAY "o4g8r8r4","o1g8r8g8r8"
+3410 PLAY "r4o4d4",G$+G$
+3415 RETURN
+3420 PLAY "o4d2",G$+G$
+3430 PLAY "r8o3b8o4c8e8",G$+G$
+3440 PLAY "o4d2",G$+G$
+3450 PLAY "o3b8r8o4g4",G$+C$
+3460 PLAY "o4g2",C$+C$
+3510 PLAY "r8o4f#8g8e8",C$+C$
+3520 PLAY "o4d2",G$+G$
+3530 PLAY "o3b4o4d4",G$+G$
+3540 PLAY "o4d2",A$+A$
+3550 PLAY "r8o4e8d8e8",A$+A$
+3610 PLAY "o4d8r8d4",B$+B$
+3620 PLAY "o4r8e8f#8g8",B$+B$
+3630 PLAY "o4a8r8a4",A$+A$
+3640 PLAY "r8o4e8f#8g8",A$+A$
+3650 PLAY "o4f#8e8d4","o2dr16o1ar16d4"
+3660 PLAY "r8r8o4d4","r2"
+3710 PLAY "o4d2",GD$+DD$
+3720 PLAY "r8o3b8o4c8e8",GD$+DD$
+3730 PLAY "o4d2",GD$+DD$
+3740 PLAY "o3b8r8o4g4",GD$+DD$
+3810 PLAY "o4g2",BG$+DG$
+3820 PLAY "r8o4f#8a8g8",BG$+DG$
+3830 PLAY "o4f#2",KA$+EA$
+3840 PLAY "o4e8r8a4",KA$+EA$
+3910 PLAY "o4a2",KA$+EA$
+3920 PLAY "r8o4g#8a8a#8",KA$+EA$
+3930 PLAY "o4b2",DB$+GB$
+3940 PLAY "r8o4f#8g8e8",DB$+GB$
+3950 PLAY "o4d8e-8e8r8","o2dr16dr16dr16r8"
+4010 PLAY "r4o4f#4","r4o2d4"
+4020 PLAY "o4g8r8a8ba","o2gr16r8d16"
+4030 PLAY "o4gr16ggg8r8","o2gr16o1gr16gr16r8"
+4035 RETURN
+4040 PLAY "o4ar16aaar16f#r16","o2ar16aaar16f#r16"
+4050 PLAY "o4d4.o3a8","o2d8r8r8o1a8"
+4060 PLAY "o4d8o3a8o4d8f#8","o2d8o1a8o2d8f#8"
+4110 PLAY "o4ar16aaa8.r16","o2ar16aaa8.r16"
+4120 PLAY "o4ar16aaar16f#r16","o2ar16aaar16f#r16"
+4130 PLAY "o4d4.o3a8","o2d4.o1a8"
+4140 PLAY "o4d8f#8a8o3a8","o2d8f#8a8o1a8"
+4150 PLAY "o4d4r4","o2d4r4"
+4160 PLAY "o4ar16aaar16f#r16","r2"
+4210 PLAY "o4d4.o3a8","r2"
+4220 PLAY "o4d8o3a8o4d8f#8","r2"
+4230 PLAY "o4ar16aaa8.r16","r2"
+4240 PLAY "o4ar16aaar16f#r16","r2"
+4250 PLAY "o4d4.o3a8","r2"
+4260 PLAY "o4d8f#8a8o3a8","r2"
+4310 PLAY "o4dr16r8d8.r16","R4O2D16R16R8
+4315 RETURN
+4320 PLAY "o4d2
+4330 PLAY "r8o3b8o4c8e8
+4340 PLAY "o4d2
+4350 PLAY "o3b8r8o4g4
+4410 PLAY "o4g2
+4420 PLAY "r8o4f#8g8e8
+4430 PLAY "o4d2
+4440 PLAY "o3b4o4d8r8
+4450 PLAY "o4d2
+4510 PLAY "r8o4e8d8e8
+4520 PLAY "o4d2
+4530 PLAY "r8o4e8f#8g8
+4540 PLAY "o4a4a4
+4550 PLAY "r8o4e8f#8g8
+4610 PLAY "o4f#8e8d8r8
+4620 PLAY "r4o4d8r8
+4630 PLAY "o4d2
+4640 PLAY "r8o3b8o4c8e8
+4650 PLAY "o4d2
+4710 PLAY "o3b8r8o4g4
+4720 PLAY "o4g2
+4730 PLAY "r8o4f#8a8g8
+4740 PLAY "o4f#2
+4810 PLAY "o4e8r8a4
+4820 PLAY "o4a2
+4830 PLAY "r8o4g#8a8a#8
+4840 PLAY "o4b2
+4910 PLAY "r8o4f#8g8e8
+4920 PLAY "o4d8e-8e8r8
+4930 PLAY "r4o4f#8r8
+4940 PLAY "o4g8r8a8ba
+4950 PLAY "o4gr16gggr16r8
+4960 RETURN
+
